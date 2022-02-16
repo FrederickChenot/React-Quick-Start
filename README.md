@@ -19,7 +19,7 @@ Eslint est déjà en partit installé par CRA, si on veut pouvoir préciser nos 
 
 Pour initialiser eslint, on fait:
 > `yarn add eslint --save-dev`
-> `yarn create @eslint/config`
+> `eslint --init`
 > On choisi le framework react
 > puis on installe les eventuelles dependances necessaire à notre config (exemple: `yarn add eslint-config-airbnb --dev `)
 
